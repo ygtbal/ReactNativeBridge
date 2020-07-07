@@ -18,3 +18,5 @@ React Native Bridge Example
 <input type="range" />
 
 ##  bir input tanımladığınız da daha inputun birden fazla div'den oluştuğu görülecektir. Bunu sağlayan ShadowDom'dur. 
+
+## ShadowDom un yanı sıra VirtualDom denen bir yapı daha vardır. VirtualDom genel manada bir değişiklik yapıldığında tüm kod bloğunu değiştirmek yerine yazlnızca modife edilen kısmı değiştirmektedir. Bunun yanı sıra, birden fazla değişikliği aynı anda yapmanıza olanak sağlayarak her değişiklik için yeniden bir render işleminin önüne geçmektedir.
