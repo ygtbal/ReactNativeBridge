@@ -3,7 +3,6 @@ import {
   View,
   Button,
   requireNativeComponent,
-  Styl
 } from 'react-native';
 import React, {Component} from 'react';
 
