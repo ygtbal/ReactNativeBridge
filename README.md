@@ -17,4 +17,4 @@ React Native Bridge Example
 
 <input type="range" />
 
-##  inputunun daha derine inildiğinde birden fazla div'den oluştuğu görülecektir. Bunu sağlayan ShadowDom'dur. 
+##  bir input tanımladığınız da daha inputun birden fazla div'den oluştuğu görülecektir. Bunu sağlayan ShadowDom'dur. 
