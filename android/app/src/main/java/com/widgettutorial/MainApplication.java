@@ -28,6 +28,8 @@ public class MainApplication extends Application implements ReactApplication {
           // packages.add(new MyReactNativePackage());
             packages.add(new SharedStoragePackager());
             packages.add(new ToastModulePackager());
+            packages.add(new SwitchPackage());
+            packages.add(new BoxPackage());
           return packages;
         }
 
